@@ -1,4 +1,10 @@
 # mercap-Ejercicio
+
+
+Realice el Ejercicio en Kotlin e utilice el IDE IntelliJ, para cargar el proyecto con dicho programa solo se debe abrir el archivo :
+````
+pom.xml
+````
 ## Aclaraciones:
 
 El ejercicio tiene comentarios en los Test para saber en que contexto se esta trabajando, intente contemplar todos los casos posibles como por ej:
